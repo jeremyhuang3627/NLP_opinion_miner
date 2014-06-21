@@ -1,0 +1,9 @@
+{
+  "name": "Reviews",
+  "description": "Natural Language Processing in Reviews",
+  "version": "0.1.0",
+  "dependencies": {
+    "natural": "~0.1.27",
+    "pos": "~0.1.5"
+  }
+}
